@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.7">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3453" dy="2750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,10 +190,10 @@
           <mxGeometry x="264.09" y="76.43000000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UFvfOa0gocDv29ARBhqc-81" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=70;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="-710" width="1000" height="560" as="geometry" />
+          <mxGeometry x="1150" y="-710" width="930" height="560" as="geometry" />
         </mxCell>
         <mxCell id="UFvfOa0gocDv29ARBhqc-82" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px; text-align: start;&quot;&gt;Fluxograma para ler dois valores numéricos&amp;nbsp;e efetuar a adição destes dois valores. Caso o valor somado dos dois valores&amp;nbsp;seja maior ou igual a 10, deverá ser apresentado o resultado somando a ele o&amp;nbsp;valor inteiro de 5; caso o valor somado não seja maior ou igual a 10, este&amp;nbsp;deverá ser apresentado subtraindo o valor de 7.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UFvfOa0gocDv29ARBhqc-81" vertex="1">
-          <mxGeometry x="50" y="6.25" width="900" height="60" as="geometry" />
+          <mxGeometry x="15" y="10" width="900" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wZkj38R6PT5TZQeugZxY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UFvfOa0gocDv29ARBhqc-81" source="wZkj38R6PT5TZQeugZxY-1" target="wZkj38R6PT5TZQeugZxY-8">
           <mxGeometry relative="1" as="geometry" />
