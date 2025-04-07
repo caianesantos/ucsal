@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UFvfOa0gocDv29ARBhqc-4" value="&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 0.2px; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(185, 185, 185), rgb(255, 247, 238));&quot;&gt;&amp;nbsp;Fluxograma para ler três números&amp;nbsp;quaisquer, identificar e escrever na saída o maior deles&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-800" width="920" height="560" as="geometry" />
+          <mxGeometry x="90" y="-710" width="920" height="560" as="geometry" />
         </mxCell>
         <mxCell id="UFvfOa0gocDv29ARBhqc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="UFvfOa0gocDv29ARBhqc-4" source="UFvfOa0gocDv29ARBhqc-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -190,7 +190,7 @@
           <mxGeometry x="264.09" y="76.43000000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UFvfOa0gocDv29ARBhqc-81" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=70;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="-800" width="1000" height="560" as="geometry" />
+          <mxGeometry x="1150" y="-710" width="1000" height="560" as="geometry" />
         </mxCell>
         <mxCell id="UFvfOa0gocDv29ARBhqc-82" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px; text-align: start;&quot;&gt;Fluxograma para ler dois valores numéricos&amp;nbsp;e efetuar a adição destes dois valores. Caso o valor somado dos dois valores&amp;nbsp;seja maior ou igual a 10, deverá ser apresentado o resultado somando a ele o&amp;nbsp;valor inteiro de 5; caso o valor somado não seja maior ou igual a 10, este&amp;nbsp;deverá ser apresentado subtraindo o valor de 7.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UFvfOa0gocDv29ARBhqc-81" vertex="1">
           <mxGeometry x="50" y="6.25" width="900" height="60" as="geometry" />
