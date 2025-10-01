@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Arquivos compilados (da pasta out)
+/out/
+
+# Arquivos de configuração do IntelliJ IDEA
+/.idea/
+
+# Outros arquivos comuns de build do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de log
+*.log
