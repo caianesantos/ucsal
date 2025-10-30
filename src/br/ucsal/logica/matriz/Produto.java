@@ -12,9 +12,6 @@ public class Produto {
         System.out.println("MATRIZ:");
         lerMatriz(M, sc);
         mostrarMatriz(M);
-        long resultado = calcularProduto(M);
-        System.out.println("O produto de todos os elementos é: " + resultado);
-
     }
 
     public static void lerMatriz(int[][] elementos, Scanner sc) {
@@ -24,7 +21,9 @@ public class Produto {
                 elementos[i][j] = sc.nextInt();
             }
         }
+
     }
+
     public static void mostrarMatriz(int[][] elementos){
         for (int i = 0; i < elementos.length; i++) {
             for (int j = 0; j < elementos[i].length; j++) {
@@ -32,6 +31,8 @@ public class Produto {
             }
             System.out.println();
         }
+        long resultado = calcularProduto(elementos);
+        System.out.println("O produto de todos os elementos é: " + resultado);
     }
 
     public static long calcularProduto(int[][] p1){
