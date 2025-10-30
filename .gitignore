@@ -1,5 +1,12 @@
-rac-logico
-out
-.idea
-*.iws
-ARTIGO FORMATO UCSAL ATUALIZADO
+# IntelliJ
+/.idea/
+*.iml
+
+# .class
+/out/
+
+#Artigo UCSAL
+/"ARTIGO FORMATO UCSAL ATUALIZADO"/
+/imagens-template/
+referencias.bib
+ucsal.tex
