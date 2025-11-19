@@ -1,4 +1,4 @@
-package br.ucsal.logica;
+package br.ucsal.logica.avaliacoes;
 
 import java.util.Scanner;
 public class prova {

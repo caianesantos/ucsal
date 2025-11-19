@@ -1,24 +1,30 @@
-// Escreva um programa que leia um vetor com 8 elementos,
+//Escreva um programa que leia um vetor com 8 elementos,
 // e imprima a multiplicação dos elementos lidos.
-
 package br.ucsal.logica.vetores;
 
 import java.util.Scanner;
 
 public class multiplicacao {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int vet[] = new int[6];
-        int i, k, soma = 0;
-        System.out.println("Digite 6 números: ");
-        for(i = 0; i < 6; i++){
+        int vet[] = new int [8];
+        lerVetor(vet, sc);
+        System.out.println("A multiplicação dos valores no vetor é: " + multiplicar(vet));
+    }
+
+    public static void lerVetor(int vet [], Scanner sc){
+        for(int i=0; i<vet.length; i++){
+            System.out.println("Digite o "+(i+1)+"° valor: ");
             vet[i] = sc.nextInt();
         }
-        k=5;
-        for(i = 0; i < 3; i++){
-            soma = vet[i] + vet[k];
-            System.out.println(soma + " ");
-            k = k - 1;
+    }
+
+    public static int multiplicar(int vet[]){
+        int resultado = 1;
+        for (int i=0; i<vet.length; i++){
+            resultado = resultado * vet[i];
         }
+        return resultado;
     }
 }
